@@ -43,5 +43,5 @@ How do topic shifts (reach-back, drift-relevant, forward-irrelevant), moderated 
 * **Anaphora:** inverse proportion of reference thickness and misunderstanding
 * **Topical potential:** Shifts are more acceptable when topic is dying
 * **Segued drift = acceptable**
-* **Forward = ignore/topic switch/correction:**
-* **Reachback = clarification:**
+* **Forward = ignore/topic switch/correction**
+* **Reachback = clarification**

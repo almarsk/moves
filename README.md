@@ -1,29 +1,47 @@
-# moves
+# Topic shifts 
+How is conversational coherence negotiated dynamically through topic shifts, discourse cues, and conversational state?
 
-**Area of research**  
-How is conversational coherence negotiated dynamically through topical moves, discourse cues, and conversational state?
+## Research question
+How do topic shifts (reach-back, drift-relevant, forward-irrelevant), moderated by **segue presence** and **topical potential** (active vs dying) and **reference thickness**, influence human judgments of coherence and repair behaviors?
 
-**Research question**  
-How do discourse moves (reach-back, drift-relevant, forward-irrelevant), moderated by **segue presence** and **topical potential** (active vs dying), influence human judgments of coherence and repair behaviors?
+## Stimuli types
 
-**Stimuli types**
-
+### Direction
 1. **Reach-back** — references a user topic several turns earlier.
 2. **Drift (relevant)** — introduces a semantically adjacent, related topic.
 3. **Forward (irrelevant)** — introduces a new, unrelated topic.
 
-All can appear with/without a **segue** and under **active vs dying topical potential**.
+### Segue
+1. **With** - segue present
+2. **Without** - segue not present
 
-**Observables**
+### Reference thickness
+1. **Explicit** - repeat mention verbatum
+2. **Paraphrase** - lexical coreference
+3. **Anaphora** - anaphora surrounded by rich lexical clues for mapping
 
-* **Acceptability rating (1–7 Likert)** — how coherent/acceptable the turn feels.
-* **Repair behavior (categorical)** — continue / ask clarification / correct bot / ignore / switch topic / leave
+### Topic potential
+1. **Active** - topic ongoing
+2. **Dying** - topic exhausted
+
+## Observables
+
+### Qualitative
+1. **Relatedness**
+2. **Topic potential**
+3. **Repair behavior**
+
+### Quantitative
+* **Rating** — how coherent/acceptable the turn feels; (1–7 Likert)
+* **Repair behavior** — OK (continue) / MISUNDERSTAND (ask clarification, correct bot) / NOK (ignore, switch topic, leave)
 * **Response latency** — time to respond after the bot’s turn.
-* **Optional short free-text explanation** — reason for rating/behavior.
+* **Free-text** — reason for rating/behavior.
 
-**Revised hypotheses**
+## Hypotheses
 
-* **H1 (Segue effect):** Segue increases acceptability across all moves, strongest for drift.
-* **H2 (Topical potential):** Shifts (drift/forward) are more acceptable when topic is dying; reach-back is less acceptable when topic is dying.
-* **H3 (Direction effect):** Drift may be most acceptable overall; acceptability interacts with topical potential and segue.
-* **H4 (Repairs):** Continuation without repair indicates acceptability; forward-irrelevant triggers ignoring or topic switches; reach-back triggers clarification; drift continues smoothly if segued.
+* **Segue effect:** Segue increases acceptability across all moves, strongest for drift.
+* **Anaphora:** inverse proportion of reference thickness and misunderstanding
+* **Topical potential:** Shifts are more acceptable when topic is dying
+* **Segued drift = acceptable**
+* **Forward = ignore/topic switch/correction:**
+* **Reachback = clarification:**

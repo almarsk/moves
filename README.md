@@ -7,29 +7,29 @@ How do topic shifts (reach-back, drift-relevant, forward-irrelevant), moderated 
 ## Stimuli types
 
 ### Direction
-1. **Reach-back** — references a user topic several turns earlier.
-2. **Drift (relevant)** — introduces a semantically adjacent, related topic.
-3. **Forward (irrelevant)** — introduces a new, unrelated topic.
+* **Reach-back** — references a user topic several turns earlier.
+* **Drift (relevant)** — introduces a semantically adjacent, related topic.
+* **Forward (irrelevant)** — introduces a new, unrelated topic.
 
 ### Segue
-1. **With** - segue present
-2. **Without** - segue not present
+* **With** - segue present
+* **Without** - segue not present
 
 ### Reference thickness
-1. **Explicit** - repeat mention verbatum
-2. **Paraphrase** - lexical coreference
-3. **Anaphora** - anaphora surrounded by rich lexical clues for mapping
+* **Explicit** - repeat mention verbatum
+* **Paraphrase** - lexical coreference
+* **Anaphora** - anaphora surrounded by rich lexical clues for mapping
 
 ### Topic potential
-1. **Active** - topic ongoing
-2. **Dying** - topic exhausted
+* **Active** - topic ongoing
+* **Dying** - topic exhausted
 
 ## Observables
 
 ### Qualitative
-1. **Relatedness**
-2. **Topic potential**
-3. **Repair behavior**
+* **Relatedness**
+*  **Topic potential**
+*  **Repair behavior**
 
 ### Quantitative
 * **Rating** — how coherent/acceptable the turn feels; (1–7 Likert)
@@ -45,3 +45,10 @@ How do topic shifts (reach-back, drift-relevant, forward-irrelevant), moderated 
 * **Segued drift = acceptable**
 * **Forward = ignore/topic switch/correction**
 * **Reachback = clarification**
+
+## Prerequisites
+
+### Real-time topic annotator
+* **Topic potential**
+* **Entities-Topics**
+* **Order of topics**
